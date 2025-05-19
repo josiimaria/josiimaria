@@ -1,5 +1,10 @@
-## Hi there 👋
 
+<h2 align="center" style="color:#d895d8;">Hey, sou a <i>Josi!</i> 🐇🌷</h2>
+ .▪°•☆•°▪.
+
+
+
+  
 <!--
 **josiimaria/josiimaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
